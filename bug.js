@@ -1,0 +1,1 @@
+This error occurs when you try to access a state variable in a component before it has been initialized. This is common when using functional components with useState.  If you try to access the state before the component renders, you'll get this error.
